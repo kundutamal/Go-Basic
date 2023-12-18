@@ -1,8 +1,11 @@
 package main
-import ("fmt")
 
-func main(){
+import (
+	"fmt"
+)
 
-	name:= "Tamal_kundu"
+func main() {
+
+	name := "Tamal_kundu"
 	fmt.Println(name)
 }
